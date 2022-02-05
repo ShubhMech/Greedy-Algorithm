@@ -1,7 +1,4 @@
-#   Created by Elshad Karimov 
-#   Copyright © AppMillers. All rights reserved.
 
-# Fractional Knapsack Problem  in Python
 
 class Item:
     def __init__(self, weight, value):
